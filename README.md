@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![binarysearch](https://binarysearch.com/api/shields/recklessinkblot)](https://binarysearch.com/@/recklessinkblot)
+<a href="https://codeforces.com/profile/recklessinkblot"><img src="https://run.kaist.ac.kr/badges/codeforces/recklessinkblot.svg"></a>
 
 <!--
 **jonathantsang/jonathantsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
