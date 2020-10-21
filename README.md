@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-+[![binarysearch](https://binarysearch.com/api/shields/username)](https://binarysearch.com/@/username)
+[![binarysearch](https://binarysearch.com/api/shields/jonathantsang)](https://binarysearch.com/@/jonathantsang)
 
 <!--
 **jonathantsang/jonathantsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
