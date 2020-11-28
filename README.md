@@ -4,7 +4,7 @@
 <br>
 <a href="https://codeforces.com/profile/recklessinkblot"><img src="https://run.kaist.ac.kr/badges/codeforces/recklessinkblot.svg"></a>
 <br>
-2106 on Leetcode, 26th in Canada
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-2106-GREEN.svg)](https://leetcode.com/jonathantsang/), 26th in Canada
 
 <!--
 **jonathantsang/jonathantsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
