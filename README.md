@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![binarysearch](https://binarysearch.com/api/shields/recklessinkblot)](https://binarysearch.com/@/recklessinkblot)
+[![binarysearch](https://binarysearch.com/api/shields/recklessinkblot)](https://binarysearch.com/@/recklessinkblot), top 5% of users
 <br>
-<a href="https://codeforces.com/profile/recklessinkblot"><img src="https://run.kaist.ac.kr/badges/codeforces/recklessinkblot.svg"></a>
+[Codeforces Specialist Rating of 1581](https://codeforces.com/profile/recklessinkblot)
 <br>
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode-2106-GREEN.svg)](https://leetcode.com/jonathantsang/), 26th in Canada
 
